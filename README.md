@@ -1,1 +1,2 @@
 # Health-Insurance-Cost-Prediction
+The goal of the project was to create a predictive model that can properly estimate an individual's optimum health insurance cost based on their health and habits, such as food, exercise routine, smoking habits, alcohol use, and other lifestyle characteristics. The model should assist medical insurance firms in reducing risk and optimising insurance costs, as well as provide consumers with accurate estimates of their healthcare costs based on their habits.
